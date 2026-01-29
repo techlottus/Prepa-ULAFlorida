@@ -1,9 +1,9 @@
-title: "PREPA: ULA VALLE"
+title: "PREPA: ULA Florida"
 description: "Avisos y recordatorios - Prepa"
 theme: minima
 
 url: "https://techlottus.github.io"
-baseurl: "/Prepa-ULA-VALLE"
+baseurl: "/Prepa-ULAFlorida"
 
 plugins:
   - jekyll-feed
